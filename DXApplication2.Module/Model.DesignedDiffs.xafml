@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Title="DXApplication2">
+  <ActionDesign>
+    <Actions>
+      <Action Id="0848e4fc-60b2-46e1-b739-08cfc0f23097" Caption="History" />
+    </Actions>
+  </ActionDesign>
+  <BOModel>
+    <Class Name="DevExpress.Persistent.BaseImpl.PermissionPolicy.PermissionPolicyUser" Caption="Base User" />
+  </BOModel>
+  <Options>
+    <LayoutManagerOptions RequiredFieldMark="*" />
+  </Options>
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="21.2.3.0" IsNewNode="True" />
+  </SchemaModules>
+  <Views>
+    <DetailView Id="ApplicationUser_DetailView" CaptionHorizontalAlignment="Default" />
+    <ListView Id="ApplicationUser_ListView" Caption="Users" />
+  </Views>
+</Application>

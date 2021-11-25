@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <BOModel>
+    <Class Name="DXApplication2.Module.BusinessObjects.Contact" Caption="Контакт" />
+    <Class Name="DXApplication2.Module.BusinessObjects.Picket" Caption="Пикет" />
+    <Class Name="DXApplication2.Module.BusinessObjects.Platform" Caption="Платформа" />
+    <Class Name="DXApplication2.Module.BusinessObjects.Warehouse" Caption="Склад" />
+  </BOModel>
+</Application>
